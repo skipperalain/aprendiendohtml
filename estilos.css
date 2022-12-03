@@ -1,0 +1,14 @@
+
+     body { /* Se aplica directamente al elemento <body> */
+       color: rgb(17, 22, 189);
+       background-color: gold;
+       background:url("https://www.dogalize.com/wp-content/uploads/2017/06/La-sverminazione-e-la-pulizia-del-cucciolo-del-cane-2-800x400-800x400.jpg");
+    }
+     h2 { /* Se aplica directamente a todos los elementos de tipo <h2> */
+       color: navy;
+       background-color: blue;
+    }
+     /* Se aplica sólo en el elemento donde se use con el atributo `class` */
+     .clase-css-tag {
+       color: rgb(128, 0, 100);
+    }
